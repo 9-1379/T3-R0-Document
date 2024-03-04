@@ -1,6 +1,6 @@
-# R0-3Team
+# 9-13579
 
-# Final-project
+## Final-project
 
 ## 개요
 - 📝 효과적인 HR을 위한 인사관리 시스템 
@@ -24,14 +24,20 @@
 ### 배포 URL
 URL : 🔗 
 
-## <span id="task">3. 개발 기간 및 작업 관리</span>
+## <span id="tree">3. 프로젝트 구조</span>
+
+## <span id="role">4. 역할 분담</span>
+
+## <span id="task">5. 개발 기간 및 작업 관리</span>
 - 전체 개발 기간 : 2024-03-04 ~ 2024-04-25
 ### 작업 관리
 - 🔗[GitHub Projects]
 - 
-## <span id="pages">4. </span>
+## <span id="pages">6. 페이지 기능</span>
+-
+-
 
-## <span id="issues">5. 개발하며 겪은 이슈</span>
+## <span id="issues">7. 개발하며 겪은 이슈</span>
 ### 1) 
    - 
    <br>
