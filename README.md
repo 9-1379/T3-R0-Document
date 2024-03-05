@@ -1,7 +1,9 @@
-# Final-project
+# Final-project 
+<img src="https://github.com/9-13579/T3-R0-Document/assets/148875683/5e82e887-5f43-4420-8760-342bb7daac30" width="700" height="500"/>
+
 
 ## 개요
-- 📝 효과적인 HR을 위한 인사관리 시스템
+- 📝 효과적인 HR을 위한 인사관리 시스템 개발 프로젝트
 
 ## 팀명
 - 9-13579
