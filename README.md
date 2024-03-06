@@ -52,8 +52,10 @@
 
 ## <span id="dev">2. 개발 환경 및 배포</span>
 ### 개발 환경
-- Front : 
-- Back : 
+- Front : HTML, CSS, JavaScript, Vue.js
+- Back : Java, Spring Boot, MariaDB, AWS, Nginx
+- CI / CD : Jenkins, Docker, Kubernetes
+- Configuration Management : Git, GitHub
 - 버전 관리 및 이슈 : 🔗
 - 서비스 배포 환경 : [🔗 ]
 ### 배포 URL
