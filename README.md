@@ -4,10 +4,11 @@
 ![03-2-1024x538](https://github.com/9-13579/T3-R0-Document/assets/148875683/e10f85ce-6f95-436f-bf73-3cc874960234)
 
 ## 팀명: 9-1379
+- 1기 공용캘린더: https://calendar.google.com/calendar/u/0/r/month/2024/3/1
+  
 - 공유문서함: https://drive.google.com/drive/folders/1pZRy6QoP-1p09s9OMQlhJKsUvO0v29aa
 - 프로젝트 관련 문서: https://github.com/9-13579/T3-R0-Document/wiki
 
-  - 1기 공용캘린더: https://calendar.google.com/calendar/u/0/r/month/2024/3/1 
   
 ## 팀원 구성
 |                                                             **🐻‍❄️ 주현성**                                                              |                                                             **🐻 이영진**                                                              |                                                             **🐰 이동혁**                                                              |                                                             **🐯 박재린**                                                              |
