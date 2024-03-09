@@ -47,41 +47,6 @@
 - 서로 서로 배려하기
 
 ## Document
-- be01_공용캘린더: https://calendar.google.com/calendar/u/0/r/month/2024/3/1
-- 팀 공유문서함: https://drive.google.com/drive/folders/1pZRy6QoP-1p09s9OMQlhJKsUvO0v29aa
-- 팀 프로젝트 관련 문서: https://github.com/9-13579/T3-R0-Document/wiki
-
-## <span id="dev">2. 개발 환경 및 배포</span>
-### 개발 환경
-- Front : HTML, CSS, JavaScript, Vue.js
-- Back : Java, Spring Boot, MariaDB, AWS, Nginx
-- CI / CD : Jenkins, Docker, Kubernetes
-- Configuration Management : Git, GitHub
-- 버전 관리 및 이슈 : 🔗
-- 서비스 배포 환경 : [🔗 ]
-### 배포 URL
-URL : 🔗 
-
-## <span id="tree">3. 프로젝트 구조</span>
-
-## <span id="role">4. 역할 분담</span>
-
-## <span id="task">5. 개발 기간 및 작업 관리</span>
-- 전체 개발 기간 : 2024-03-04 ~ 2024-04-25
-### 작업 관리
-- 🔗[GitHub Projects]
-- 
-## <span id="pages">6. 페이지 기능</span>
--
--
-
-## <span id="issues">7. 개발하며 겪은 이슈</span>
-### 1) 
-   - 
-   <br>
-   
-#### 내용
-- 
-#### 결론
-- 
-
+- [be01_공용캘린더](https://calendar.google.com/calendar/u/0/r/month/2024/3/1)
+- [팀 공유문서함](https://drive.google.com/drive/folders/1pZRy6QoP-1p09s9OMQlhJKsUvO0v29aa)
+- [팀 프로젝트 관련 문서](https://github.com/9-13579/T3-R0-Document/wiki)
