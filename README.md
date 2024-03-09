@@ -19,9 +19,9 @@
 ### - 팀명: 9-1379
   
 ### - 팀원 소개
-| PM | TL | AC | GM |
+| 🐻‍❄️[PM](https://github.com/hyunsungJoo) |  🐻[TL](https://github.com/ldh0308) | 🐰[AC](https://github.com/yjinlee99) | 🐼[GM](https://github.com/Jaelinny) |
 | ---- | ---- | ---- | ---- |
-| [🐻‍❄️ 주현성](https://github.com/hyunsungJoo) | [🐻 이동혁](https://github.com/ldh0308) | [🐰 이영진](https://github.com/yjinlee99) | [🐼 박재린](https://github.com/Jaelinny) |
+| 주현성(97) | 이동혁(91) | 이영진(99) | 박재린(93) |
 
 <br/>
 
