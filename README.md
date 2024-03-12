@@ -10,8 +10,8 @@
 <br/>
 
 ## 🗂️ 프로젝트 문서
-| 🗓️ [be01_공용캘린더](https://calendar.google.com/calendar/u/0/r/month/2024/3/1) | 📁 [팀 공유문서함](https://drive.google.com/drive/folders/1pZRy6QoP-1p09s9OMQlhJKsUvO0v29aa) | 📋 [팀 프로젝트 관련 문서](https://github.com/9-13579/T3-R0-Document/wiki) |
-| ---- | ---- | ---- |
+| 🗓️ [be01_공용캘린더](https://calendar.google.com/calendar/u/0/r/month/2024/3/1) | 📁 [팀 공유문서함](https://drive.google.com/drive/folders/1pZRy6QoP-1p09s9OMQlhJKsUvO0v29aa) | 📋 [팀 프로젝트 관련 문서](https://github.com/9-13579/T3-R0-Document/wiki) | 📊 [ERD](https://www.erdcloud.com/d/cm2i2kDgZKmat6fNj) |
+| ---- | ---- | ---- | ---- |
 
 <br/>
 
