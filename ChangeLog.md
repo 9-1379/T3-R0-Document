@@ -2,7 +2,8 @@
 
 - [x] 브랜치 전략 
 
-- C:\Users\Playdata\Pictures\Screenshots\스크린샷 2024-03-15 111252.png
+ ![스크린샷 2024-03-15 111252](https://github.com/9-1379/T3-R0-Document/assets/148875683/de1e7ca6-a81f-4b90-89ef-f2827c426db7)
+
 
 - [x] 커밋 컨벤션 정의
 
