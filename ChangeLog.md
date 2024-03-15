@@ -37,3 +37,7 @@ Refactor | 코드 리펙토링
 Test | 테스트 코드
 Remove | 코드 삭제시
 Modify | 코드 수정시
+
+예시) <br/>
+[Add] 코드 기능 추가 <br/>
+[Docs] 리드미 파일 수정 
