@@ -10,7 +10,7 @@
 <br/>
 
 ## 🗂️ 프로젝트 문서
-| 🗓️ [be01_공용캘린더](https://calendar.google.com/calendar/u/0/r/month/2024/3/1) | 📁 [팀 공유문서함](https://drive.google.com/drive/folders/1pZRy6QoP-1p09s9OMQlhJKsUvO0v29aa) | 📋 [팀 프로젝트 관련 문서](https://github.com/9-13579/T3-R0-Document/wiki) | 📊 [ERD](https://www.erdcloud.com/d/cm2i2kDgZKmat6fNj) |
+| 🗓️ [be01_공용캘린더](https://calendar.google.com/calendar/u/0/r/month/2024/3/1) | 📁 [팀 공유문서함](https://drive.google.com/drive/folders/1pZRy6QoP-1p09s9OMQlhJKsUvO0v29aa) | 📋 [팀 Wiki](https://github.com/9-13579/T3-R0-Document/wiki) | 📊 [ERD](https://www.erdcloud.com/d/cm2i2kDgZKmat6fNj) |
 | ---- | ---- | ---- | ---- |
 
 <br/>
@@ -52,8 +52,12 @@
 
 ### ✔️ 팀 규칙
 - ⭐팀워크와 재미 중시⭐ <br/>
+- 화요일 / 금요일
+    - 오전 9:10분 코드 커뮤니케이션 회의
 <details>
   <summary>자세히</summary>
+
+
 
 - 매일 오전9:30 / 오후5:00 팀 회의 <br/>
     - 오전(어제 진행 된 내용 및 오늘 할 일 공유) <br/>
