@@ -15,6 +15,12 @@
 
 <br/>
 
+## 💻개발 서버 레포
+| ⚡[BE-Server-Repo](https://github.com/9-1379/T3-R1-BE-Server) | ⚡[FE-Server-Repo](https://github.com/9-1379/T3-R2-FE-Server) |
+| ---- | ---- |
+
+<br/>
+
 ## 💡 팀 소개
 ### ✔️ 팀명: 9-1379
   
